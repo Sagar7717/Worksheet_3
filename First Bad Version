@@ -17,3 +17,5 @@ class Solution {
     return l;
   }
 };
+
+#link https://leetcode.com/problems/first-bad-version/description/
