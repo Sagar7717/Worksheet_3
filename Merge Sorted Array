@@ -12,3 +12,5 @@ class Solution {
         nums1[k--] = nums2[j--];
   }
 };
+
+link https://leetcode.com/problems/merge-sorted-array/description/
